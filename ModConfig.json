@@ -1,0 +1,35 @@
+{
+  "ModId": "nights.test.input",
+  "ModName": "Input",
+  "ModAuthor": "Jordan",
+  "ModVersion": "1.0.0",
+  "ModDescription": "Removes deadzones. Precision Visitor movement. Shows mouse cursor.",
+  "ModDll": "nights.test.input.dll",
+  "ModIcon": "Preview.png",
+  "ModR2RManagedDll32": "x86/nights.test.input.dll",
+  "ModR2RManagedDll64": "x64/nights.test.input.dll",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "Tags": [],
+  "CanUnload": null,
+  "HasExports": null,
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "nights.test.input.ReleaseMetadata.json",
+  "PluginData": {
+    "GitHubRelease": {
+      "UserName": "Colon-D",
+      "RepositoryName": "nights-input",
+      "UseReleaseTag": true,
+      "AssetFileName": "Mod.zip"
+    }
+  },
+  "IsUniversalMod": false,
+  "ModDependencies": [
+    "reloaded.sharedlib.hooks"
+  ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [
+    "nights.exe"
+  ],
+  "ProjectUrl": ""
+}
